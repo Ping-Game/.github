@@ -28,8 +28,8 @@ Nous visons à transformer la manière dont les événements gaming en ligne son
 Vous avez des questions ou souhaitez organiser un événement ? Contactez-nous !
 
 - **Site web** : [ping-game.com](https://ping-game.com)
-- **Email** : support@ping-game.com
-- **Twitter** : [@PingGameOfficial](https://twitter.com/PingGameOfficial)
+- **Email** : [support@ping-game.com](mailto:support@ping-game.com)
+- **Twitter** : [xPingGame](https://x.com/xPingGame)
 
 ## 🧑‍💻 Contribuer
 
