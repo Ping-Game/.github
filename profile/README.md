@@ -20,7 +20,7 @@ Nous visons à transformer la manière dont les événements gaming en ligne son
 ## 🛠️ Technologies utilisées
 
 - **Frontend** : NextJs | React | MaterialUI pour une interface utilisateur fluide et réactive.
-- **Backend** : PHP | Symfony | Mysql pour une gestion fiable des données et des événements.
+- **API** : PHP | Symfony | Mysql pour une gestion fiable des données et des événements.
 - **Infrastructure** : Docker Swarm pour un hébergement évolutif et sécurisé moins couteux.
 
 ## 📫 Contact
