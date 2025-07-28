@@ -35,10 +35,6 @@ Vous avez des questions ou souhaitez organiser un événement ? Contactez-nous !
 
 Nous apprécions les contributions de la communauté ! Si vous avez des idées ou souhaitez contribuer au développement de la plateforme, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## 📜 Licence
-
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
-
 ---
 
 Merci de soutenir Ping Game ! Suivez-nous pour rester informé des dernières nouveautés.
